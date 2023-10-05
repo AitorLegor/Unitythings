@@ -1,0 +1,4 @@
+#Thu Oct 05 16:14:21 CEST 2023
+base.0=C\:\\Users\\alego\\Desktop\\TRABAJO\\GAMEDEV\\CURSO\\ANO2\\M07 UF01\\Cardboard  teleport mirada\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
